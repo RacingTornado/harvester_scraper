@@ -99,3 +99,17 @@ Thanks:
 -------
 John Matherly -  SHODAN project
 Lee Baird for suggestions and bugs reporting
+
+
+
+
+
+
+
+
+####################################################################
+
+-Added sites Zaba, 411 and a few others
+-Provided a proxy interface for web connections
+-http://proxylist.hidemyass.com/
+
